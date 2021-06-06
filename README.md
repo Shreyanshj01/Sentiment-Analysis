@@ -1,5 +1,5 @@
 # Sentiment-Analyzer:
-## Differet sort of architecture im trying to implement which i was not aware i was just learning
+## Differet sort of architecture im trying to implement which i was not aware about when i was just learning something
 
 #### We can have data from multiple client.
 #### Every data is suppose to keep it in a separate way.
